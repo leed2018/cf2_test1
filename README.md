@@ -7,16 +7,16 @@ Problems #4 is listed in style.css
 Making these changes will lead you to your goal of finishing the exam!
 
 
-##But Wait Mr. Gold, how do I get your index.html?
-###Great question, excellent student. See the button called Fork in the upper right hand corner? Press that and then you have my repository! Then you can clone into unbuntu as if its yours!
-##How should I submit the work?
-###When you are satisfied with your work, Add, Commit, Pull, and Push!  I will be checking in your account for a repo named cf2_test1
+## But Wait Mr. Gold, how do I get your index.html?
+### Great question, excellent student. See the button called Fork in the upper right hand corner? Press that and then you have my repository! Then you can clone into unbuntu as if its yours!
+## How should I submit the work?
+### When you are satisfied with your work, Add, Commit, Pull, and Push!  I will be checking in your account for a repo named cf2_test1
 
 
 
 
 May the odds be forever in your favor!
 
-
+![Image of FinalProduct](https://raw.githubusercontent.com/facedesk/cf2_test1/master/Capture.PNG)
 
 
