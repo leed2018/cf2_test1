@@ -3,7 +3,9 @@ Good luck on your Final Exam!
 Your task is to recreate the image below using html, css, and bootstrap. The only difference between this image and your final website should be the final problem, where you should write out a fact that you recall from each of the units.
 
 Problems #1,2,3, and 5 are all listed in index.html
+
 Problems #4 is listed in style.css
+
 Making these changes will lead you to your goal of finishing the exam!
 
 
