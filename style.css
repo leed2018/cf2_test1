@@ -15,12 +15,16 @@ height:50vh;
 
 .evilSide{
 height:50vh;
+background-color:red;
+color:black;
+
 
 }
 
 .robotSide{
 height:50vh;
-
+background-color:black;
+color:red;
 }
 
 
