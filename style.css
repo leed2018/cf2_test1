@@ -5,7 +5,8 @@ img{
 height: 20vh;
 }
 
-/*problem 4: set the text color in evil genius to red and the background color to black
+/*problem 4: 10 points each
+Set the text color in evil genius to red and the background color to black
 and in robot set the text color to black with the background color to red
 */
 .halfscreen{
@@ -22,13 +23,4 @@ height:50vh;
 
 }
 
-.yellow{
-background-color:yellow;
-}
-.green{
-background-color:green;
-}
-.gray{
-background-color:gray;
-}
 
